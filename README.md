@@ -1,9 +1,9 @@
-Current state:1)The game is not achieving high amount of sales
-              2)less productivity
-              3)less gamers playing the game
-Desired state:1)The game achieves a higher sales amount
-              2)High productivity
-              3)More gamers playing the game
+Current state:1)The game is not achieving high amount of sales.
+              2)less productivity.
+              3)less gamers playing the game.
+Desired state:1)The game achieves a higher sales amount.
+              2)High productivity.
+              3)More gamers playing the game.
 GAP ANALYSIS:
     1.Genre
     2.Accessibility
